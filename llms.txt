@@ -1,0 +1,51 @@
+# Geotechnik — Chemnitz
+
+> Geotechnical engineering services in Chemnitz, Deutschland.
+
+## Services
+- [Anker](https://chemnitz.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://chemnitz.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://chemnitz.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://chemnitz.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://chemnitz.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://chemnitz.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://chemnitz.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://chemnitz.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://chemnitz.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://chemnitz.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://chemnitz.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://chemnitz.geotechnik.biz/fundamente/)
+- [Grundungen](https://chemnitz.geotechnik.biz/grundungen/)
+- [Hange](https://chemnitz.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://chemnitz.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://chemnitz.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://chemnitz.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://chemnitz.geotechnik.biz/labor/)
+- [Labor In Situ](https://chemnitz.geotechnik.biz/labor-in-situ/)
+- [Masw](https://chemnitz.geotechnik.biz/masw/)
+- [Pfahle](https://chemnitz.geotechnik.biz/pfahle/)
+- [Proctor Versuche](https://chemnitz.geotechnik.biz/proctor-versuche/)
+- [Ruttelverdichtung](https://chemnitz.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://chemnitz.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://chemnitz.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://chemnitz.geotechnik.biz/schurfgruben/)
+- [Seismik](https://chemnitz.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://chemnitz.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://chemnitz.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://chemnitz.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://chemnitz.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://chemnitz.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://chemnitz.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://chemnitz.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://chemnitz.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://chemnitz.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://chemnitz.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://chemnitz.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://chemnitz.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://chemnitz.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Chemnitz, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
